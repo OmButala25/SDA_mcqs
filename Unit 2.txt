@@ -368,7 +368,7 @@ The architecture can affect the enterprise goals of the developing
 All of the Above	
 None of the these
 	 
-Answer:
+Answer: All of the Above
 			
 103) System composed of multiple processes which may (but need not) execute on different processors 	
 Single processor architectures	
@@ -376,7 +376,7 @@ Multiprocessor architectures
 Non-processor architectures	
 Nano processor architectures
 
-Answer:
+Answer: Multiprocessor architectures
 
 104) Architectural model of many large real-time systems is part of 	
 Single processor architectures	
@@ -384,4 +384,4 @@ Non-processor architectures
 Nano processor architectures	
 None of above
 
-Answer:
+Answer: none of the above(not sure)
