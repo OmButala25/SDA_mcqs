@@ -360,7 +360,7 @@ Single processor architectures
 Non-processor architectures	
 Nano processor architectures
 
-Answer:
+Answer: Multiprocessor architectures
 
 102) Which one is true with regards to the architecture business cycle?	
 The architecture affects the structure of developing organizations	
