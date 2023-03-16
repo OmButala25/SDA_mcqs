@@ -263,7 +263,7 @@ create object structure
 create class structure	
 all
 
-Answer: WTF Questions wants to ask
+Answer: create program structure
 
 33) IN JSP, Optimize results through 	
 program inversion	
