@@ -1,0 +1,421 @@
+Unit 1
+
+1) The reasons behind modeling can be   	
+
+Readability	
+Reusability	
+Both	
+None
+
+Answer Both
+
+2) The Unified Modeling Language (UML) is a standard language for 	
+
+specifying	
+visualizing	
+constructing	
+all
+
+Answer all
+
+3) The primary goals in the design of the UML were 	
+
+security	
+interactivity	
+both	
+none
+
+Answer none
+
+4)Total valid UML diagrams 	
+
+7	
+8	
+9	
+10
+
+Answer 9
+
+5) UML Diagram Classification 	
+
+Static, Dynamic	
+0-1	
+small, large	
+no option
+
+
+Answer: Static, Dynamic
+
+6) Modeling is a mean for dealing with complexity 	
+
+TRUE	
+FALSE	
+partial	
+dont know
+
+Answer: true
+
+7) Class diagrams represent the structure of the system 	
+
+TRUE	
+FALSE	
+not sure	
+dont know
+
+Answer: true
+
+8) A class represent a concept 	
+
+TRUE	
+FALSE	
+not sure	
+dont know
+
+Answer: true
+
+9) An activity diagram dont shows flow control within a system 	
+
+TRUE	
+FALSE	
+partial	
+not sure
+
+Answer: False
+
+
+
+10) Programmers Approach to Software Engineering 
+	
+Skip requirements engineering and design phases	
+start writing code	
+above two	
+none
+
+Answer: above two
+
+11) Design is a waste of time 
+	
+programmers approach	
+Designer Approach	
+Engineer's Approach	
+Manager Approach
+
+Answer: programmers approach
+
+12) We need to show something to the customer real quick 	
+Programer's Approach	
+Designer Approach	
+Engineers Approach	
+Manager's Approach
+
+Answer: Manager's approach
+
+13) Design is a trial-and-error process 	
+
+TRUE	
+FALSE	
+not sure	
+dual
+
+Answer: true
+
+14) Software design as a wicked problem 	
+
+TRUE	
+FALSE	
+not sure	
+dont know
+
+Answer: true
+
+16) Every wicked problem is a symptom of another problem 
+	
+TRUE	
+FALSE	
+none	
+both
+
+Answer: true
+
+17) Following is a design principle 	
+
+class	
+Abstraction
+Polymorphism	
+Inheritance
+
+Answer: class (not sure) or none of the above
+
+18) Complexity 	 
+
+High value is high complexity	 
+Low value is high complexity	
+Zero value is high complexity	 
+High value is no complexity
+
+Answer: High value is high complexity	
+				
+19) Design methods 	
+jsp	
+jsd	
+er	
+all
+
+Answer: All
+
+20) OOD methods 	
+fusion	
+booch	
+both	
+none
+
+Answer: Both
+
+21) JSP is 	
+Jackson Structured Programming	
+Jackson Structured Project	
+both	
+none
+
+Answer: None
+
+22) Which programming language is the foundation of the Jackson Library?	
+Jackson	
+J2EE	
+both	
+none
+
+Answer: None
+
+23) JSD is 	
+Jackson Structured Data	
+Jackson Structured Design	
+both	
+none
+
+Answer: Jackson Structured Design
+
+24) JSP is for 	
+programming-in-the-small	
+programming-in-the-large	
+both	
+none
+
+Answer: Both
+
+25) JSD is for 	
+programming-in-the-small	
+programming-in-the-large	
+both	
+none
+
+Answer: programming-in-the-large
+
+26) Does Jackson support data binding?	
+yes	
+no		
+
+Answer: yes
+
+27) JSP basic idea is 	
+bad program reflects structure of its input and output	
+program reflects structure  	
+good program reflects structure of its input  	
+good program reflects structure of its input and output
+
+
+Answer: good program reflects structure of its input and output
+
+28) In jsp, program can be derived almost mechanically from a description of the input and output 	
+TRUE	
+FALSE	
+
+Answer: True
+
+29) input and output are depicted in a structure diagram and/or in structured text/schematic logic this is concept of-- 	
+jsp	
+jsd	
+both	
+none
+
+Answer: both
+
+30) Basic compound forms of jsp is/are 	
+sequence	 
+iteration	
+selection	
+all
+
+Answer: all
+
+31) Model input and output in jsp  
+use   	
+any diagrams	
+State diagrams	
+structure diagrams	
+class diagrams
+
+Answer: structure diagrams
+
+32) In JSP, Merge diagrams to 	
+create program structure	
+create object structure	
+create class structure	
+all
+
+Answer: WTF Questions wants to ask
+
+33) IN JSP, Optimize results through 	
+program inversion	
+Simple optimization	
+both	
+none
+
+Answer: program inversion
+
+34) The modeling stage, network stage, implementation stage are stages of 	
+JSP	
+JSD	
+both	
+none
+
+Answer: JSD
+
+35) How many ways does Jackson provide to process JSON?	
+5	
+4	
+3	
+2
+
+Answer: 3
+
+36) JSD life cycle is depicted as 	
+process structure diagram	
+program structure diagram	
+Project structure diagram	
+Part of structure diagram
+
+Answer:
+
+37) Is there any additional library required by the Jackson library outside the JDK?	
+Yes	
+No	
+
+Answer: No	
+
+38) process structure diagrams are 	
+finite state diagrams	
+infinite state diagrams	
+state diagrams	
+Interstate diagrams
+
+Answer: State Diagram
+
+
+39) identify the objects, determine their attributes and services, determine the relationships between objects are stages of 	
+JSP	
+JSD	
+OOAD	
+OOD
+
+Answer: OOAD
+
+40) Software Life Cycle Activities, in Requirements Specification 
+System analyst works with users to clarify the detailed system requirements	
+System manager works with users to clarify the detailed system requirements	
+System leader works with users to clarify the detailed system requirements	
+System tester works with users to clarify the detailed system requirements
+
+Answer: System analyst works with users to clarify the detailed system requirements
+
+41) Is Jackson library open-source?	
+yes	
+no
+
+Answer: YES
+		
+42)Software Life Cycle Activities, in Analysis 	
+Make sure you partially understand the problem before starting the design or program a solution	
+Make sure you completely understand the problem before starting the design or program a solution	
+Make sure you completely understand the problem before end the design or program a solution	
+Make sure you completely understand the problem before starting the analysis or program a solution
+
+Answer: Make sure you completely understand the problem before starting the design or program a solution
+
+43) Software Life Cycle Activities, in Design 	
+Top-down: break system into larger main system	
+Top-down: combine system into smaller subsystems	
+Top-down: break system into smaller subsystems	
+Top-down: combine system into larger system
+
+Answer: Top-down: break system into smaller subsystems
+
+44) The Unified Modeling Language (UML) is a standard language for	
+specifying	
+visualizing	
+constructing	
+all
+
+Answer: All
+
+45) The reasons behind modeling can be 
+Readability	Reusability	both	none
+
+Answer: Both
+				
+
+46) The primary goals in the design of the UML were	
+Security	
+Interactivity	
+both	
+none
+
+Answer: 
+
+47) Total valid UML diagrams	
+7	
+8	
+9	
+10
+
+Answer: 9
+
+48) UML Diagram Classification	
+Static, Dynamic	
+True, False	
+Small, large	
+0-1
+
+Answer: Static, Dynamic
+
+49) Modeling is a mean for dealing with complexity	
+TRUE	
+FALSE	
+Partial	
+Don’t know
+
+Answer: True
+
+50) Class diagrams represent the structure of the system.	
+TRUE	
+FALSE	
+Partial	
+Don’t know
+
+Answer: true
+
+51) How many types of data binding does Jackson support?	
+5	4	3	2
+
+Answer: 2
+
+
+52)A class represent a concept.	
+TRUE	FALSE	Partial	Don’t know
+
+Answe: true
+
+53)An activity diagram dont shows flow control within a system	
+TRUE	FALSE	Partial	Don’t know
+
+Answer: true

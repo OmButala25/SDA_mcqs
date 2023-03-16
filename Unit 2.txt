@@ -1,0 +1,387 @@
+Unit 2
+
+
+54) All architecture is software design, but not all design is software architecture 	
+TRUE	FALSE	not sure	no option
+
+Answer: true
+
+55) Architecture focuses on â€˜issues that will be difficult/impossible to change once the system is builtâ€™ 	
+TRUE	FALSE	not sure	no option
+
+Answer: true
+
+56) Architecture is the fundamental organization 	
+A. of a system, embodied in its components.	
+B. A and  their relationships to each other and the environment	
+C.  B and the principles governing its design and evolution.	
+D. Nothing like it
+
+Answer: C
+
+57) Data passing mechanisms 	
+Function call   System call	both	none
+
+Answer: Function call
+
+58) Control flow is 	
+Sequential	 Concurrent	both	none
+
+Answer Both
+
+59) Non-functional requirements (NFRs) include 	
+Technical Constraints	
+Bussiness Constraints	
+qos	
+all
+
+Answer: All
+
+60) What does an Architect do 	
+Liaison with stakeholders	
+Technology knowledge	
+Risk managements	
+all
+
+Answer: all
+
+61) What are Quality Attributes 	
+reliability	
+smartness	
+both	
+none
+
+Answer: reliability	
+
+62) Throughput is 	 
+Performance	
+Complexity	
+security	
+none
+
+Answer: Performance (not sure)
+
+63) Security is 	
+performance	
+QoS	
+Complexity	
+Part of reliability
+
+Answer: Part of reliability (not sure)
+ 
+64) Non-functional requirements are also called as 	
+QOS	
+Feedback	
+nob qos	
+ALL
+
+Answer: QOS
+
+65) Control flow can be 	
+Synchronous	
+Non-Synchronus	
+Both	
+none
+
+Answer: both
+
+66) Patterns Help efficiently communicate a design 	
+TRUE	FALSE	not sure	no option
+
+Answer: true
+
+67) Patterns and Styles are not the same thing 
+TRUE	FALSE	not sure	no option
+
+Answer: true 
+
+68) Non-functional requirements (NFRs) do not define â€˜howâ€™ a system works 	
+TRUE	FALSE	not sure	no option
+
+Answer: true
+
+69) Architecture provides an abstract view of a design by 	
+Hides complexity of design	
+direct mapping between architecture elements and software elements	
+both	
+none
+
+Answer: Hides complexity of design
+
+70) Hierarchical decomposition is a powerful abstraction mechanism 	
+TRUE	FALSE	not sure	no option
+
+Answer: true
+
+71) A software architecture represents a simple design artifact 	
+TRUE	FALSE	Not sure	no option
+
+Answer: false
+
+72) Process view: describes the concurrency and communications elements of architecture. 	
+2+1 View Model	3+1 View Model	4+1 View Model	5+1 View Model
+
+Answer: 4+1 View Model
+
+72) Logical view: describes architecturally significant elements of the architecture and the relationships between them. 	
+2+1 View Model	3+1 View Model	4+1 View Model	5+1 View Model
+
+Answer: 4+1 View Model
+
+73) The design process for identifying the sub-systems making up a system and the framework for sub-system control and communication is 	
+architectural design	
+Software design	
+Data design	
+Process design
+
+Answer: architectural design
+
+74) The output of this design process is a description of the--- 	
+software architecture	
+data architecture	
+both	
+none
+
+Answer: Both
+
+75) An early stage of the system design process 	
+Data design	
+Software design	
+architectural design	
+None of above
+
+Answer: architectural design
+
+76) What Represents the link between specification and design processes 	
+Data design	
+Software design	
+architectural design	
+None of above
+
+Answer: architectural design
+
+77) What  involves identifying major system components and their communications 	
+Data design	
+Software design	
+architectural design	
+None of above
+
+Answer: architectural design
+
+78) The system is decomposed into several principal sub-systems and communications between these sub-systems are identified as --- 	
+System structuring	
+Control modelling	
+Modular decomposition	
+None of above
+
+Answer: System structuring
+
+79) A model of the control relationships between the different parts of the system is established as --- 	
+System structuring	
+Control modelling	
+Modular decomposition	
+None of above
+
+Answer:Control modelling
+	
+80) The identified sub-systems are decomposed into modules as --- 	
+System structuring	
+Control modelling	
+Modular decomposition	
+None of above
+
+Answer: Modular decomposition
+
+81) A -------- is a system in its own right whose operation is independent of the services provided by other sub-systems 	
+Sub system	
+Super system	
+Co system	
+System of system
+
+Answer: Sub system
+
+82) A ------is a system component that provides services to other components but would not normally be considered as a separate system 
+Co-module	
+module	
+Sub-module	
+None of above
+Modular
+
+Answer: module
+
+83) Different architectural models may be produced during the ---- 	
+design process	
+Engineering process	
+-	
+A
+
+Answer: design process
+
+84) Each model presents which different perspectives on the architecture 	
+Static structural model	
+Dynamic process model	
+Interface model	
+All of above
+
+Answer: all
+
+85) -------that shows the major system components 	
+Static structural model	
+Dynamic process model	
+Interface model	
+-
+
+Answer: Static structural model
+
+86) ------that shows the process structure of the system 	
+Static structural model	
+Dynamic process model	
+Interface model	
+-
+
+Answer: Dynamic process model
+
+87) -----that defines sub-system interfaces 	
+Static structural model	
+Dynamic process model	
+Interface model	
+-
+
+Answer: Interface model
+
+88) Uses of distributed object architecture is  	
+As a logical model that allows you to structure and organise the system.	
+As a non flexible approach to the implementation of client-server systems.	
+As a physical model that allows you to structure and organise the system.	
+As a view model that allows you to structure and organise the system.
+
+Answer: As a logical model that allows you to structure and organise the system
+
+89) Advantages of distributed object architecture 	
+It allows the system designer to delay decisions on where and how services should be provided	
+It is a very open system architecture that allows new resources to be added to it as required	
+The system is flexible and scaleable	
+All of above
+
+Answer: all
+
+90) Which of following is true for Distributed object architectures 	
+Each distributable entity is an not object	
+There is no distinction in a distributed object architectures between clients and servers	
+Object communication is through a non middleware system	
+Simplest  to design than C/S systems
+
+Answer: 😵
+
+91) Three-tier architectures are 	
+In a three-tier architecture, each of the application architecture 
+layers may execute on a separate processor	
+Allows for better performance than a thin-client approach and is simpler to manage than a fat-client approach	
+A more scalable architecture - as demands increase, extra servers can be added	
+All of above
+
+Answer: all
+
+92) More processing is delegated to the client as the application processing is locally executed 	
+Flat client model	
+Thin client model	
+Thin server model	
+Flat server model
+
+Answer: Thin client model
+
+93) Most suitable for new C/S systems where the capabilities of the client system are known in advance 	
+Flat client model
+Thin client model	
+Thin server model	
+Flat server model
+
+Answer: Thin client model	
+
+94) How do architects influence on developing organization?	
+Long term business	
+Immediate business	
+Organization structure	
+All of the above
+
+Answer: All of the above
+
+95) Which of the following factors are influenced on the architect?	
+Background and experience of the architects	
+Developing an organization	
+Customers and end users
+All of the above
+
+Answer: All of the above
+
+96) More complex than a thin client model especially for management. 	
+Fat client model	
+Thin client model	
+Thin server model	
+Fat server model
+
+Answer: Flat client model
+
+97) Used when legacy systems are migrated to client server architectures 	
+Fat client model	
+Thin client model	
+Thin server model	
+Fat server model
+
+Answer: Fat client model	
+
+98) A major disadvantage of ----- is that it places a heavy processing load on both the server and the network 	
+Fat client model	
+Thin client model	
+Thin server model	
+Fat server model
+
+Answer: Thin client model
+
+99) ----- Concerned with presenting the results of a computation to system users and with collecting user inputs 	
+Application processing layer	
+Data management layer	
+Presentation layer	
+None of above
+
+Answer: Presentation layer
+
+100) --- Concerned with providing application specific functionality   	
+Application processing layer	
+Data management layer	
+Presentation layer	
+None of above
+
+Answer: Application processing layer
+
+101) Distribution of process to processor may be pre-ordered or may be under the control of a dispatcher 	
+Multiprocessor architectures	
+Single processor architectures	
+Non-processor architectures	
+Nano processor architectures
+
+Answer:
+
+102) Which one is true with regards to the architecture business cycle?	
+The architecture affects the structure of developing organizations	
+The architecture can affect the enterprise goals of the developing 	
+All of the Above	
+None of the these
+	 
+Answer:
+			
+103) System composed of multiple processes which may (but need not) execute on different processors 	
+Single processor architectures	
+Multiprocessor architectures	
+Non-processor architectures	
+Nano processor architectures
+
+Answer:
+
+104) Architectural model of many large real-time systems is part of 	
+Single processor architectures	
+Non-processor architectures	
+Nano processor architectures	
+None of above
+
+Answer:
