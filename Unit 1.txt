@@ -407,7 +407,7 @@ Answer: true
 51) How many types of data binding does Jackson support?	
 5	4	3	2
 
-Answer: 2
+Answer: 3
 
 
 52)A class represent a concept.	
@@ -418,4 +418,4 @@ Answe: true
 53)An activity diagram dont shows flow control within a system	
 TRUE	FALSE	Partial	Don’t know
 
-Answer: true
+Answer: false
