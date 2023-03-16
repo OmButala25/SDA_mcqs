@@ -117,7 +117,7 @@ FALSE
 not sure	
 dual
 
-Answer: not sure or true
+Answer: true
 
 14) Software design as a wicked problem 	
 
@@ -144,7 +144,7 @@ Abstraction
 Polymorphism	
 Inheritance
 
-Answer: class (not sure)
+Answer: class (not sure) or non of the above 
 
 18) Complexity 	 
 
@@ -153,7 +153,7 @@ Low value is high complexity
 Zero value is high complexity	 
 High value is no complexity
 
-Answer: (Didn't get what the question wants to ask)		
+Answer: High value is high complexity			
 				
 19) Design methods 	
 jsp	
