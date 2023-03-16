@@ -370,7 +370,7 @@ Interactivity
 both	
 none
 
-Answer: 
+Answer: none
 
 47) Total valid UML diagrams	
 7	
