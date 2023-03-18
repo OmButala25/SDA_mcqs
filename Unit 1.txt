@@ -201,7 +201,7 @@ programming-in-the-large
 both	
 none
 
-Answer: Both
+Answer: small
 
 25) JSD is for 	
 programming-in-the-small	
