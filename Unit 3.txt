@@ -1,6 +1,6 @@
 Unit 3
 
-105) Architectural Patterns are 	
+1) Architectural Patterns are 	
 Related to large-scale and coarse-grained design	
 Related to small-scale and coarse-grained design	
 both	
@@ -8,7 +8,7 @@ none
 
 Answer: Related to large-scale and coarse-grained design
 
-106) Architectural Patterns are 	
+2) Architectural Patterns are 	
 applied during the early iterations	
 applied during the post iterations	
 both	
@@ -17,7 +17,7 @@ none
 Answer: applied during the early iterations	
 
 				
-107) Design Patterns are 	
+3) Design Patterns are 	
 small and medium-scale design of objects and frameworks	
 large and medium-scale design of objects and frameworks	
 both	
@@ -25,30 +25,30 @@ none
 
 Answer: small and medium-scale design of objects and frameworks
 
-108) Design Patterns are 	
+4) Design Patterns are 	
 Applicable to designing a solution for connecting the small scale elements	
 Applicable to designing a solution for connecting the large scale elements	
 both	
 none
 
-Answer: both
+Answer: Applicable to designing a solution for connecting the large scale elements
 
-109) Design Patterns are  Done during detailed design work after architectural              design is â€˜solid.â€™ 	
+5) Design Patterns are  Done during detailed design work after architectural design is 'Solid'	
 TRUE	FALSE	partially true	partially false
 
 Answer: true
 
-110) Design patterns are sometimes known as      architectural patterns. 	
+6) Design patterns are sometimes known as  architectural patterns. 	
 TRUE	FALSE	partially true	partially false
 
 Answer: true
 
-111) Design Patterns are groups of objects  and their relationships designed to support a â€˜good object designâ€™ 	
+7) Design Patterns are groups of objects  and their relationships designed to support a 'good object design'
 TRUE	FALSE	no idea	no option
 
 Answer: true
 
-112) What is â€˜good object design?â€™ 	
+8) What is 'good object design?' 	
 yields high cohesion of our objects
 has low coupling between our objects	
 both	
@@ -56,25 +56,25 @@ none
 
 Answer: both
 
-113) All design involves making decisions 	
+9) All design involves making decisions 	
 TRUE	FALSE	no idea	no option
 
-Answer: yes
+Answer: true
 
-114) Good object design do not  involves the assignment of object responsibilities. 	
+10) Good object design do not  involves the assignment of object responsibilities. 	
 TRUE	FALSE	no idea	no option
 
 Answer: false
 
-115) Deciding what methods belong where and how objects interact (their relationships) is 	
+11) Deciding what methods belong where and how objects interact (their relationships) is 	
 critically important and trivial	
 critically important and NOT trivial	
 both	
 none
 
-Answer: critically important and trivial
+Answer: critically important and NOT trivial
 
-116) Patterns that help protect other objects from unanticipated access 	
+12) Patterns that help protect other objects from unanticipated access 	
 immutable and read-only interfaces	
 immutable and not  read-only interfaces	
 both	
@@ -82,41 +82,41 @@ none
 
 Answer: immutable and read-only interfaces
 
-117) Patterns where you use delegation to gain access to 	
+13) Patterns where you use delegation to gain access to 	
 Adaptor	
-FaÃ§ade	
+Facade
 Proxy pattern	
 all
 
-Answer: facade
+Answer: all
 
-118) Patterns that assist us in separating concerns 
+14) Patterns that assist us in separating concerns 
 observer	singleton	iterator	facade
 
 Answer: facade
 
-119) A pattern is the outline of a reusable solution to a general problem encountered in a particular context 	
+15) A pattern is the outline of a reusable solution to a general problem encountered in a particular context 	
 TRUE	FALSE	-	A
 
 Answer: true
 
-120) A pattern is the outline of a reusable solution to a specific problem encountered in a particular context 	
+16) A pattern is the outline of a reusable solution to a specific problem encountered in a particular context 	
 TRUE	FALSE	-	B
 
-Answer: true
+Answer: false
 
-121) A pattern is the outline of a reusable solution to a specific problem encountered in a general context 	
+17) A pattern is the outline of a reusable solution to a specific problem encountered in a general context 	
 TRUE	FALSE	-	B
 
 
-Answer: true
+Answer: false
 
-122) A pattern is the outline of a reusable solution to a general problem encountered in a general context 	
+18) A pattern is the outline of a reusable solution to a general problem encountered in a general context 	
 TRUE	FALSE	-	B
 
-Answer: true
+Answer: false
 
-123) A good pattern should 	
+19) A good pattern should 	
 Be as general as possible	
 Be as specific as possible	
 -	
@@ -125,7 +125,7 @@ A
 
 Answer: Be as general as possible
 
-124) Pattern contain a solution that has been proven to effectively solve the problem in the indicated context. 
+20) Pattern contain a solution that has been proven to effectively solve the problem in the indicated context. 
 Good pattern	
 Not good pattern	
 General pattern	
@@ -134,7 +134,7 @@ Not general pattern
 
 Answer: Good pattern
 
-125) Studying patterns is an effective way to learn from  --- 	
+21) Studying patterns is an effective way to learn from  --- 	
 the experience of others	
 the experience of project manager	
 the experience of the team laeder	
@@ -142,47 +142,47 @@ the experience of design team only
 
 Answer: the experience of others
 
-126) The general situation in which the pattern applies 	
+22) The general situation in which the pattern applies 	
 context	problem	solution	project
 
 Answer: context
 
-127) A short sentence or two raising the main difficulty. 	
+23) A short sentence or two raising the main difficulty. 	
 context	problem	solution	project
 
-Answer: solution (not sure)
+Answer: problem
 
-128) The issues or concerns to consider when solving the problem 	
+24) The issues or concerns to consider when solving the problem 	
 forces	problem	solution	project
 
 Answer: forces
 
-129) The recommended way to solve the problem in the given context. 	
+25) The recommended way to solve the problem in the given context. 	
 context	problem	solution	project
 
 Answer: solution 
 
-130) Solutions that are inferior or do not work in this context. 	
+26) Solutions that are inferior or do not work in this context. 	
 Antipatterns	Related patterns	references	domain
 
 Answer: Antipatterns
 
-131) Patterns that are similar to this pattern. 	
+27) Patterns that are similar to this pattern. 	
 Antipatterns	Related patterns	co pattern	domain
 
 Answer: Related patterns
 
-132) Who developed or inspired the pattern 	
+28) Who developed or inspired the pattern 	
 Antipatterns	References	Related patterns	Solution
 
-Answer: 🤧
+Answer: References	
 
-133) Creational Patterns 	
+29) Creational Patterns 	
 Factory method	singleton	prototype	all
 
 Answer: all
 
-134) Structural Patterns 	
+30) Structural Patterns 	
 Adapter	
 Proxy	
 Facade	
@@ -190,7 +190,7 @@ all
 
 Answer: all
 
-135) patterns are a common design vocabulary 	
+31) patterns are a common design vocabulary 	
 allows engineers to abstract a problem and talk about that abstraction in isolation from its implementation	
 embodies a culture; domain-specific patterns increase design speed	
 both	
@@ -198,15 +198,15 @@ none
 
 Answer: both
 
-136) patterns capture design expertise and allow that expertise to be communicated 	
-promotes design reuse and promotes design reuse	
+32) patterns capture design expertise and allow that expertise to be communicated 	
+promotes design reuse and avoid mistakes	
 promotes design reuse	
-promotes design reuse	
+avoid mistakes	
 none
 
-Answer: promotes design reuse
+Answer: promotes design reuse and avoid mistakes
 
-137) What are Benefits of using patterns 	
+33) What are Benefits of using patterns 	
 improve documentation	
 understandability	
 both	
@@ -214,7 +214,7 @@ none
 
 Answer: both
 
-138) Iterator pattern that is 	
+34) Iterator pattern that is 	
 supports concurrent iteration and element removal	
 uniform interface for traversing many different data structures	
 an object that provides a standard way to examine all elements of any collection	
@@ -222,7 +222,7 @@ all
 
 Answer: all
 
-139) Observer pattern is nothing but -- 	
+35) Observer pattern is nothing but -- 	
 objects whose state can be watched	
 objects whose instance can be watched	
 objects whose class can be watched	
@@ -230,7 +230,7 @@ objects whose  interface can be watched
 
 Answer: objects whose state can be watched	
 
-140) ----represent solutions to problems that arise when developing software within a particular context 
+36) ----represent solutions to problems that arise when developing software within a particular context 
 Design software	
 Design patterns	
 Design hardware	
@@ -238,15 +238,15 @@ Analysis patterns
 
 Answer: Design patterns
 
-141) Patterns capture the --- structure and collaboration among key participants in software designs 	
+37) Patterns capture the --- structure and collaboration among key participants in software designs 	
 static	
 Dynamic	
 A and B	
 None of above
 
-Answer: static
+Answer: a & b
 
-142) Patterns facilitate ----- of successful software architectures and designs 	
+38) Patterns facilitate ----- of successful software architectures and designs 	
 Updating	
 Addition	
 Manipulate	
@@ -254,7 +254,7 @@ Reuse
 
 Answer: Reuse
 
-143) Application domain of Design patterns are 	
+39) Application domain of Design patterns are 	
 CAD and CAE	
 cellular network management and telecomm switches	
 program visualization	
@@ -262,7 +262,7 @@ All of above
 
 Answer: All of above
 
-144) technical areas of Design patterns are 	
+40) technical areas of Design patterns are 	
 user interface	
 communications	
 persistent objects	
@@ -270,16 +270,16 @@ All of above
 
 Answer: All of above
 
-145) A Design Pattern do not Describes a recurring design structure with 	
+41) A Design Pattern do not Describes a recurring design structure with 	
 identifies classes	
 Encapsulation	
 responsibilities	
 Collaborations
 
-Answer: identifies classes	
+Answer: Encapsulation
 
 
-146) A Design Pattern Describes a recurring design structure with 	
+42) A Design Pattern Describes a recurring design structure with 	
 applicability	
 trade-offs	
 consequences	
@@ -287,7 +287,7 @@ All of above
 
 Answer: all
 
-147) In Design pattern what is content intent? 	
+43) In Design pattern what is content intent? 	
 objects/classes and their responsibilities	
 situations where pattern can be applied	
 Problem and Context	
@@ -295,7 +295,7 @@ scenario illustrates a design problem
 
 Answer: Problem and Context
 
-148) In the Design pattern what is motivation? 	
+44) In the Design pattern what is motivation? 	
 objects/classes and their responsibilities	
 situations where pattern can be applied	
 Problem and Context	
@@ -303,7 +303,7 @@ the scenario illustrates a design problem
 
 Answer: the scenario illustrates a design problem
 
-149) In the Design pattern what is participants? 	
+45) In the Design pattern what is participants? 	
 objects/classes and their responsibilities	
 situations where pattern can be applied	
 Problem and Context	
@@ -311,7 +311,7 @@ scenario illustrates a design problem
 
 Answer: objects/classes and their responsibilities
 
-150) In Design pattern what is  Applicability 
+46) In Design pattern what is  Applicability 
 objects/classes and their responsibilities	
 situations where pattern can be applied	
 Problem and Context	
@@ -319,7 +319,7 @@ the scenario illustrates a design problem
 
 Answer: situations where pattern can be applied
 
-151) In Design pattern what is  Structure? 	
+47) In Design pattern what is  Structure? 	
 graphical representation of classes	
 objects/classes and their responsibilities	
 how participants collaborate	  
@@ -327,7 +327,7 @@ trade-offs and results
 
 Answer: graphical representation of classes
 
-152) In the Design pattern what are Collaborations for complex projects? 	
+48) In the Design pattern what are Collaborations for complex projects? 	
 graphical representation of classes
 objects/classes and their responsibilities	
 how participants collaborate	
@@ -335,23 +335,26 @@ trade-offs and results
 
 Answer: how participants collaborate	
 
-153) Which of the following is correct about Creational design patterns.	
+49) Which of the following is correct about Creational design patterns.	
 These design patterns are specifically concerned with communication between objects.	
 These design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new opreator.	
 These design patterns concern class and object composition. Concept of inheritance	
 None of the above.
 
-Answer: These design patterns concern class and object composition. Concept of inheritance
+Answer: These design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new opreator.	
 
-154) Which of the following pattern is used when we need to decouple an abstraction from its implementation so that the two can vary independently?	
+50) Which of the following pattern is used when we need to decouple an abstraction from its implementation so that the two can vary independently?	
 Bridge Pattern		
 
 Answer: Bridge Pattern	
 	
-155) In Design pattern what is the Consequences for the life-critical project? 	
+51) In Design pattern what is the Consequences for the life-critical project? 	
 graphical representation of classes	
 objects/classes and their responsibilities	
 how participants collaborate	
 trade-offs and results
 
 Answer: trade-offs and results
+
+
+

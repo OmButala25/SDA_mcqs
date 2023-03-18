@@ -7,7 +7,7 @@ Reusability
 Both	
 None
 
-Answer Both
+Answer: Both
 
 2) The Unified Modeling Language (UML) is a standard language for 	
 
@@ -16,7 +16,7 @@ visualizing
 constructing	
 all
 
-Answer all
+Answer: all
 
 3) The primary goals in the design of the UML were 	
 
@@ -25,7 +25,7 @@ interactivity
 both	
 none
 
-Answer none
+Answer: none
 
 4)Total valid UML diagrams 	
 
@@ -34,7 +34,7 @@ Answer none
 9	
 10
 
-Answer 9
+Answer: 9
 
 5) UML Diagram Classification 	
 
@@ -42,7 +42,6 @@ Static, Dynamic
 0-1	
 small, large	
 no option
-
 
 Answer: Static, Dynamic
 
@@ -93,6 +92,7 @@ none
 
 Answer: above two
 
+
 11) Design is a waste of time 
 	
 programmers approach	
@@ -117,7 +117,7 @@ FALSE
 not sure	
 dual
 
-Answer: true
+Answer: not sure or true
 
 14) Software design as a wicked problem 	
 
@@ -144,7 +144,8 @@ Abstraction
 Polymorphism	
 Inheritance
 
-Answer: class (not sure) or none of the above
+Answer: class (not sure)
+Design principle of diagram is Abstraction 
 
 18) Complexity 	 
 
@@ -153,7 +154,7 @@ Low value is high complexity
 Zero value is high complexity	 
 High value is no complexity
 
-Answer: High value is high complexity	
+Answer:  high value is high complexity	
 				
 19) Design methods 	
 jsp	
@@ -177,7 +178,7 @@ Jackson Structured Project
 both	
 none
 
-Answer: None
+Answer: Jackson Structured Programming 
 
 22) Which programming language is the foundation of the Jackson Library?	
 Jackson	
@@ -201,7 +202,7 @@ programming-in-the-large
 both	
 none
 
-Answer: small
+Answer: programming-in-the-small	
 
 25) JSD is for 	
 programming-in-the-small	
@@ -263,7 +264,7 @@ create object structure
 create class structure	
 all
 
-Answer: create program structure
+Answer: create Program Structure
 
 33) IN JSP, Optimize results through 	
 program inversion	
@@ -350,72 +351,8 @@ Top-down: combine system into larger system
 
 Answer: Top-down: break system into smaller subsystems
 
-44) The Unified Modeling Language (UML) is a standard language for	
-specifying	
-visualizing	
-constructing	
-all
 
-Answer: All
-
-45) The reasons behind modeling can be 
-Readability	Reusability	both	none
-
-Answer: Both
-				
-
-46) The primary goals in the design of the UML were	
-Security	
-Interactivity	
-both	
-none
-
-Answer: none
-
-47) Total valid UML diagrams	
-7	
-8	
-9	
-10
-
-Answer: 9
-
-48) UML Diagram Classification	
-Static, Dynamic	
-True, False	
-Small, large	
-0-1
-
-Answer: Static, Dynamic
-
-49) Modeling is a mean for dealing with complexity	
-TRUE	
-FALSE	
-Partial	
-Don’t know
-
-Answer: True
-
-50) Class diagrams represent the structure of the system.	
-TRUE	
-FALSE	
-Partial	
-Don’t know
-
-Answer: true
-
-51) How many types of data binding does Jackson support?	
+44) How many types of data binding does Jackson support?	
 5	4	3	2
 
-Answer: 3
-
-
-52)A class represent a concept.	
-TRUE	FALSE	Partial	Don’t know
-
-Answe: true
-
-53)An activity diagram dont shows flow control within a system	
-TRUE	FALSE	Partial	Don’t know
-
-Answer: false
+Answer: 2
