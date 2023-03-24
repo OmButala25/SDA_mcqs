@@ -1,0 +1,1015 @@
+Unit 1
+1) The reasons behind modeling can be
+Readability
+Reusability
+Both
+None
+Answer: Both
+
+2) The Unified Modeling Language (UML) is a standard language for
+specifying
+visualizing
+constructing
+all
+Answer: all
+
+3) The primary goals in the design of the UML were
+security
+interactivity
+both
+none
+Answer: none
+
+4)Total valid UML diagrams
+7
+8
+9
+
+10
+Answer: 9
+
+5) UML Diagram Classification
+Static, Dynamic
+0-1
+small, large
+no option
+Answer: Static, Dynamic
+
+6) Modeling is a mean for dealing with complexity
+TRUE
+FALSE
+Answer: true
+
+7) Class diagrams represent the structure of the system
+TRUE
+FALSE
+Answer: true
+
+8) A class represent a concept
+TRUE
+FALSE
+Answer: true
+
+9) An activity diagram dont shows flow control within a system
+TRUE
+FALSE
+Answer: False
+
+10) Programmers Approach to Software Engineering
+Skip requirements engineering and design phases
+start writing code
+above two
+none
+Answer: above two
+
+11) Design is a waste of time
+programmers approach
+Designer Approach
+Engineer's Approach
+Manager Approach
+Answer: programmers approach
+
+12) We need to show something to the customer real quick
+Programer's Approach
+Designer Approach
+Engineers Approach
+Manager's Approach
+Answer: Manager's approach
+
+13) Design is a trial-and-error process
+TRUE
+FALSE
+Answer: true
+
+14) Software design as a wicked problem
+TRUE
+FALSE
+Answer: true
+
+16) Every wicked problem is a symptom of another problem
+TRUE
+FALSE
+Answer: true
+
+17) Following is a design principle
+class
+Abstraction
+Polymorphism
+Inheritance
+Answer: Abstraction
+
+18) Complexity
+High value is high complexity
+Low value is high complexity
+Zero value is high complexity
+High value is no complexity
+Answer: high value is high complexity
+
+19) Design methods
+jsp
+
+jsd
+er
+all
+Answer: All
+
+20) OOD methods
+fusion
+booch
+both
+none
+Answer: Both
+
+21) JSP is
+Jackson Structured Programming
+Jackson Structured Project
+both
+none
+Answer: Jackson Structured Programming
+
+22) Which programming language is the foundation of the Jackson Library?
+Jackson
+J2EE
+both
+none
+Answer: None
+
+23) JSD is
+Jackson Structured Data
+Jackson Structured Design
+both
+none
+Answer: Jackson Structured Design
+
+24) JSP is for
+programming-in-the-small
+programming-in-the-large
+both
+none
+Answer: programming-in-the-small
+
+25) JSD is for
+programming-in-the-small
+programming-in-the-large
+both
+none
+Answer: programming-in-the-large
+
+26) Does Jackson support data binding?
+yes
+no
+Answer: yes
+
+27) JSP basic idea is
+bad program reflects structure of its input and output
+program reflects structure
+good program reflects structure of its input
+good program reflects structure of its input and output
+Answer: good program reflects structure of its input and output
+
+28) In jsp, program can be derived almost mechanically from a description of
+the input and output
+TRUE
+FALSE
+Answer: True
+
+29) input and output are depicted in a structure diagram and/or in structured
+text/schematic logic this is concept of-jsp
+jsd
+both
+none
+Answer: jsp
+
+30) Basic compound forms of jsp is/are
+sequence
+iteration
+selection
+all
+Answer: all
+
+31) Model input and output in jsp
+any diagrams
+State diagrams
+structure diagrams
+class diagrams
+Answer: structure diagrams
+
+32) In JSP, Merge diagrams to
+create program structure
+create object structure
+create class structure
+all
+Answer: create Program Structure
+
+33) IN JSP, Optimize results through
+program inversion
+Simple optimization
+both
+none
+Answer: program inversion
+
+34) The modeling stage, network stage, implementation stage are stages of
+JSP
+JSD
+both
+none
+Answer: JSD
+
+35) How many ways does Jackson provide to process JSON?
+5
+4
+3
+2
+Answer: 3
+
+36) JSD life cycle is depicted as
+process structure diagram
+program structure diagram
+Project structure diagram
+Part of structure diagram
+Answer: process structure diagram
+
+37) Is there any additional library required by the Jackson library outside the
+JDK?
+Yes
+No
+Answer: No
+
+38) process structure diagrams are
+finite state diagrams
+infinite state diagrams
+state diagrams
+Interstate diagrams
+Answer: State Diagram
+
+39) identify the objects, determine their attributes and services, determine
+the relationships between objects are stages of
+JSP
+JSD
+OOAD
+OOD
+Answer: OOAD
+
+40) Software Life Cycle Activities, in Requirements Specification
+1. System analyst works with users to clarify the detailed system requirements
+2. System manager works with users to clarify the detailed system
+requirements
+3. System leader works with users to clarify the detailed system requirements
+4. System tester works with users to clarify the detailed system requirements
+Answer: System analyst works with users to clarify the detailed system
+requirements
+
+41) Is Jackson library open-source?
+yes
+no
+Answer: YES
+
+42)Software Life Cycle Activities, in Analysis
+Make sure you partially understand the problem before starting the design or
+program a solution
+Make sure you completely understand the problem before starting the design
+or program a solution
+
+Make sure you completely understand the problem before end the design or
+program a solution
+Make sure you completely understand the problem before starting the analysis
+or program a solution
+Answer: Make sure you completely understand the problem before starting
+the design or program a solution
+
+43) Software Life Cycle Activities, in Design
+Top-down: break system into larger main system
+Top-down: combine system into smaller subsystems
+Top-down: break system into smaller subsystems
+Top-down: combine system into larger system
+Answer: Top-down: break system into smaller subsystems
+
+44) How many types of data binding does Jackson support?
+5
+4
+3
+2
+Answer: 2
+
+Unit 2
+1) All architecture is software design, but not all design is software
+architecture
+TRUE
+FALSE
+Answer: true
+
+2) Architecture focuses on 'issues that will be difficult/impossible to change
+once the system is built'
+TRUE
+FALSE
+Answer: true
+
+3) Architecture is the fundamental organization
+A. of a system, embodied in its components.
+B. A and their relationships to each other and the environment
+C. B and the principles governing its design and evolution.
+D. Nothing like it
+Answer: C
+
+4) Data passing mechanisms
+Function call
+System call
+both
+none
+Answer: Function call
+
+5) Control flow is
+Sequential
+Concurrent
+both
+none
+Answer: Both
+
+6) Non-functional requirements (NFRs) include
+Technical Constraints
+Bussiness Constraints
+qos
+all
+Answer: All
+
+7) What does an Architect do
+Liaison with stakeholders
+Technology knowledge
+Risk managements
+all
+Answer: all
+
+8) What are Quality Attributes
+reliability
+smartness
+both
+none
+Answer: reliability
+
+9) Throughput is
+Performance
+Complexity
+security
+none
+Answer: Performance
+
+10) Security is
+performance
+QoS
+Complexity
+Part of reliability
+Answer: Part of reliability
+
+11) Non-functional requirements are also called as
+QOS
+Feedback
+nob qos
+ALL
+Answer: QOS
+
+12) Control flow can be
+Synchronous
+Non-Synchronus
+Both
+none
+Answer: Synchronous
+
+13) Patterns Help efficiently communicate a design
+TRUE
+FALSE
+Answer: true
+
+14) Patterns and Styles are not the same thing
+TRUE
+FALSE
+Answer: False
+
+15) Non-functional requirements (NFRs) do not define 'how' a system works
+TRUE
+FALSE
+Answer: False
+
+16) Architecture provides an abstract view of a design by
+Hides complexity of design
+direct mapping between architecture elements and software elements
+both
+none
+Answer: Hides complexity of design
+
+17) Hierarchical decomposition is a powerful abstraction mechanism
+TRUE
+FALSE
+Answer: true
+
+18) A software architecture represents a simple design artifact
+TRUE
+FALSE
+Answer: false
+
+19) Process view: describes the concurrency and communications elements
+of architecture.
+2+1 View Model
+3+1 View Model
+4+1 View Model
+5+1 View Model
+Answer: 4+1 View Model
+
+20) Logical view: describes architecturally significant elements of the
+architecture and the relationships between them.
+2+1 View Model
+3+1 View Model
+4+1 View Model
+5+1 View Model
+Answer: 4+1 View Model
+
+21) The design process for identifying the sub-systems making up a system
+and the framework for sub-system control and communication is
+architectural design
+Software design
+Data design
+Process design
+
+Answer: architectural design
+
+22) The output of this design process is a description of the--software architecture
+data architecture
+both
+none
+Answer: software architecture
+
+23) An early stage of the system design process
+Data design
+Software design
+architectural design
+None of above
+Answer: architectural design
+
+24) What Represents the link between specification and design processes
+Data design
+Software design
+architectural design
+None of above
+Answer: architectural design
+
+25) What involves identifying major system components and their
+communications
+Data design
+Software design
+
+architectural design
+none of above
+Answer: architectural design
+
+26) The system is decomposed into several principal sub-systems and
+communications between these sub-systems are identified as --System structuring
+Control modelling
+Modular decomposition
+None of above
+Answer: System structuring
+
+27) A model of the control relationships between the different parts of the
+system is established as --System structuring
+Control modelling
+Modular decomposition
+None of above
+Answer: Control modelling
+
+28) The identified sub-systems are decomposed into modules as --System structuring
+Control modelling
+Modular decomposition
+None of above
+Answer: Modular decomposition
+
+29) A -------- is a system in its own right whose operation is independent of
+the services provided by other sub-systems
+Sub system
+Super system
+Co system
+System of system
+Answer: Sub system
+
+30) A ------is a system component that provides services to other components
+but would not normally be considered as a separate system
+Co-module
+module
+Sub-module
+None of above
+Modular
+Answer: module
+
+31) Different architectural models may be produced during the ---design process
+Engineering process
+Answer: design process
+
+32) Each model presents which different perspectives on the architecture
+Static structural model
+Dynamic process model
+Interface model
+
+All of above
+Answer: all
+
+33) -------that shows the major system components
+Static structural model
+Dynamic process model
+Interface model
+Answer: Static structural model
+
+34) ------that shows the process structure of the system
+Static structural model
+Dynamic process model
+Interface model
+Answer: Dynamic process model
+
+35) -----that defines sub-system interfaces
+Static structural model
+Dynamic process model
+Interface model
+Answer: Interface model
+
+36) Uses of distributed object architecture is
+As a logical model that allows you to structure and organise the system.
+
+As a non flexible approach to the implementation of client-server systems.
+As a physical model that allows you to structure and organise the system.
+As a view model that allows you to structure and organise the system.
+Answer: As a logical model that allows you to structure and organise the
+system
+
+37) Advantages of distributed object architecture
+It allows the system designer to delay decisions on where and how services
+should be provided
+It is a very open system architecture that allows new resources to be added to
+it as required
+The system is flexible and scaleable
+All of above
+Answer: all
+
+38) Which of following is true for Distributed object architectures
+Each distributable entity is an not object
+There is no distinction in a distributed object architectures between clients and
+servers
+Object communication is through a non middleware system
+Simplest to design than C/S systems
+Answer: There is no distinction in a distributed object architectures between
+clients and servers
+
+39) Three-tier architectures are
+In a three-tier architecture, each of the application architecture
+layers may execute on a separate processor
+
+Allows for better performance than a thin-client approach and is simpler to
+manage than a fat-client approach
+A more scalable architecture - as demands increase, extra servers can be
+added
+All of above
+Answer: all
+
+40) More processing is delegated to the client as the application processing is
+locally executed
+Fat client model
+Thin client model
+Thin server model
+Fat server model
+Answer: Fat client model
+
+41) Most suitable for new C/S systems where the capabilities of the client
+system are known in advance
+Fat client model
+Thin client model
+Thin server model
+Fat server model
+Answer: Fat client model
+
+42) How do architects influence on developing organization?
+Long term business
+Immediate business
+Organization structure
+
+All of the above
+Answer: All of the above
+
+43) Which of the following factors are influenced on the architect?
+Background and experience of the architects
+Developing an organization
+Customers and end users
+All of the above
+Answer: All of the above
+
+44) More complex than a thin client model especially for management.
+Fat client model
+Thin client model
+Thin server model
+Fat server model
+Answer: Fat client model
+
+45) Used when legacy systems are migrated to client server architectures
+Fat client model
+Thin client model
+Thin server model
+Fat server model
+Answer: Thin client model
+
+46) A major disadvantage of ----- is that it places a heavy processing load on
+both the server and the network
+Fat client model
+
+Thin client model
+Thin server model
+Fat server model
+Answer: Thin client model
+
+47) ----- Concerned with presenting the results of a computation to system
+users and with collecting user inputs
+Application processing layer
+Data management layer
+Presentation layer
+None of above
+Answer: Presentation layer
+
+48) --- Concerned with providing application specific functionality
+Application processing layer
+Data management layer
+Presentation layer
+None of above
+Answer: Application processing layer
+
+49) Distribution of process to processor may be pre-ordered or may be under
+the control of a dispatcher
+Multiprocessor architectures
+Single processor architectures
+Non-processor architectures
+Nano processor architectures
+Answer: Multiprocessor architectures
+
+50) Which one is true with regards to the architecture business cycle?
+The architecture affects the structure of developing organizations
+The architecture can affect the enterprise goals of the developing
+All of the Above
+None of the these
+Answer: All of the above
+
+51) System composed of multiple processes which may (but need not)
+execute on different processors
+Single processor architectures
+Multiprocessor architectures
+Non-processor architectures
+Nano processor architectures
+Answer: Multiprocessor architectures
+
+52) Architectural model of many large real-time systems is part of
+Single processor architectures
+Non-processor architectures
+Nano processor architectures
+None of above
+Answer: None
+Multiprocessor architectures
+
+Unit 3
+1) Architectural Patterns are
+Related to large-scale and coarse-grained design
+Related to small-scale and coarse-grained design
+both
+none
+Answer: Related to large-scale and coarse-grained design
+
+2) Architectural Patterns are
+applied during the early iterations
+applied during the post iterations
+both
+none
+Answer: applied during the early iterations
+
+3) Design Patterns are
+small and medium-scale design of objects and frameworks
+large and medium-scale design of objects and frameworks
+both
+none
+Answer: small and medium-scale design of objects and frameworks
+
+4) Design Patterns are
+Applicable to designing a solution for connecting the small scale elements
+Applicable to designing a solution for connecting the large scale elements
+
+both
+none
+Answer: Applicable to designing a solution for connecting the large scale
+elements
+
+5) Design Patterns are Done during detailed design work after architectural
+design is 'Solid'
+TRUE
+FALSE
+Answer: true
+
+6) Design patterns are sometimes known as architectural patterns.
+TRUE
+FALSE
+Answer: true
+
+7) Design Patterns are groups of objects and their relationships designed to
+support a 'good object design'
+TRUE
+FALSE
+Answer: true
+
+8) What is 'good object design?'
+yields high cohesion of our objects
+has low coupling between our objects
+both
+none
+Answer: both
+
+9) All design involves making decisions
+TRUE
+FALSE
+Answer: true
+
+10) Good object design do not involves the assignment of object
+responsibilities.
+TRUE
+FALSE
+Answer: false
+
+11) Deciding what methods belong where and how objects interact (their
+relationships is
+critically important and trivial
+critically important and NOT trivial
+both
+none
+Answer: critically important and NOT trivial
+
+12) Patterns that help protect other objects from unanticipated access
+immutable and read-only interfaces
+immutable and not read-only interfaces
+both
+none
+Answer: immutable and read-only interfaces
+
+13) Patterns where you use delegation to gain access to
+Adaptor
+Facade
+Proxy pattern
+all
+Answer: all
+
+14) Patterns that assist us in separating concerns
+observer
+singleton
+iterator
+facade
+Answer: observer
+
+15) A pattern is the outline of a reusable solution to a general problem
+encountered in a particular context
+TRUE
+FALSE
+Answer: true
+
+16) A pattern is the outline of a reusable solution to a specific problem
+encountered in a general context
+TRUE
+FALSE
+Answer: false
+
+17) A good pattern should
+Be as general as possible
+Be as specific as possible
+Answer: Be as general as possible
+
+18) Pattern contain a solution that has been proven to effectively solve the
+problem in the indicated context.
+Good pattern
+Not good pattern
+General pattern
+Not general pattern
+Answer: Good pattern
+
+19) Studying patterns is an effective way to learn from --the experience of others
+the experience of project manager
+the experience of the team laeder
+the experience of design team only
+Answer: the experience of others
+
+20) The general situation in which the pattern applies
+context
+problem
+solution
+project
+Answer: context
+
+21) A short sentence or two raising the main difficulty.
+
+context
+problem
+solution
+project
+Answer: problem
+
+22) The issues or concerns to consider when solving the problem
+forces
+problem
+solution
+project
+Answer: forces
+
+23) The recommended way to solve the problem in the given context.
+context
+problem
+solution
+project
+Answer: solution
+
+24) Solutions that are inferior or do not work in this context.
+Antipatterns
+Related patterns
+references
+domain
+Answer: Antipatterns
+
+25) Patterns that are similar to this pattern.
+Antipatterns
+Related patterns
+co pattern
+domain
+Answer: Related patterns
+
+26) Who developed or inspired the pattern
+Antipatterns
+References
+Related patterns
+Solution
+Answer: References
+
+27) Creational Patterns
+Factory method
+singleton
+prototype
+all
+Answer: all
+
+28) Structural Patterns
+Adapter
+Proxy
+Facade
+all
+Answer: all
+
+29) patterns are a common design vocabulary
+allows engineers to abstract a problem and talk about that abstraction in
+isolation from its implementation
+embodies a culture; domain-specific patterns increase design speed
+both
+none
+Answer: both
+
+30) patterns capture design expertise and allow that expertise to be
+communicated
+promotes design reuse and avoid mistakes
+promotes design reuse
+avoid mistakes
+none
+Answer: promotes design reuse and avoid mistakes
+
+31) What are Benefits of using patterns
+improve documentation
+understandability
+both
+none
+Answer: both
+
+32) Iterator pattern that is
+supports concurrent iteration and element removal
+uniform interface for traversing many different data structures
+
+an object that provides a standard way to examine all elements of any
+collection
+all
+Answer: all
+
+33) Observer pattern is nothing but -objects whose state can be watched
+objects whose instance can be watched
+objects whose class can be watched
+objects whose interface can be watched
+Answer: objects whose state can be watched
+
+34) ----represent solutions to problems that arise when developing software
+within a particular context
+Design software
+Design patterns
+Design hardware
+Analysis patterns
+Answer: Design patterns
+
+35) Patterns capture the --- structure and collaboration among key
+participants in software designs
+static
+Dynamic
+A and B
+None of above
+Answer: a & b
+
+36) Patterns facilitate ----- of successful software architectures and designs
+Updating
+Addition
+Manipulate
+Reuse
+Answer: Reuse
+
+37) Application domain of Design patterns are
+CAD and CAE
+cellular network management and telecomm switches
+program visualization
+All of above
+Answer: All of above
+
+38) technical areas of Design patterns are
+user interface
+communications
+persistent objects
+All of above
+Answer: All of above
+
+39) A Design Pattern do not Describes a recurring design structure with
+identifies classes
+Encapsulation
+responsibilities
+Collaborations
+Answer: Encapsulation
+
+40) A Design Pattern Describes a recurring design structure with applicability
+trade-offs
+consequences
+All of above
+Answer: all
+
+41) In Design pattern what is content intent?
+objects/classes and their responsibilities
+situations where pattern can be applied
+Problem and Context
+scenario illustrates a design problem
+Answer: Problem and Context
+
+42) In the Design pattern what is motivation?
+objects/classes and their responsibilities
+situations where pattern can be applied
+Problem and Context
+the scenario illustrates a design problem
+Answer: the scenario illustrates a design problem
+
+43) In the Design pattern what is participants?
+objects/classes and their responsibilities
+situations where pattern can be applied
+Problem and Context
+scenario illustrates a design problem
+Answer: objects/classes and their responsibilities
+
+44) In Design pattern what is Applicability
+objects/classes and their responsibilities
+situations where pattern can be applied
+Problem and Context
+the scenario illustrates a design problem
+Answer: situations where pattern can be applied
+
+45) In Design pattern what is Structure?
+graphical representation of classes
+objects/classes and their responsibilities
+how participants collaborate
+trade-offs and results
+Answer: graphical representation of classes
+
+46) In the Design pattern what are Collaborations for complex projects?
+graphical representation of classes
+objects/classes and their responsibilities
+how participants collaborate
+trade-offs and results
+Answer: how participants collaborate
+
+47) Which of the following is correct about Creational design patterns.
+These design patterns are specifically concerned with communication between
+objects.
+These design patterns provide a way to create objects while hiding the creation
+logic, rather than instantiating objects directly using new operator.
+
+These design patterns concern class and object composition. Concept of
+inheritance
+None of the above.
+Answer: These design patterns provide a way to create objects while hiding
+the creation logic, rather than instantiating objects directly using new
+operator.
+
+48) Which of the following pattern is used when we need to decouple an
+abstraction from its implementation so that the two can vary independently?
+Bridge Pattern
+Adapter Pattern
+Singleton Pattern
+Answer: Bridge Pattern
+
+49) In Design pattern what is the Consequences for the life-critical project?
+graphical representation of classes
+objects/classes and their responsibilities
+how participants collaborate
+trade-offs and results
+Answer: trade-offs and results
+
+
